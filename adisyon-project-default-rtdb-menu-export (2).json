@@ -1,7 +1,7 @@
 {
   "menuKey_forknife": {
     "category": {
-      "category1": {
+      "category001": {
         "id": 1,
         "menuItem": {
           "B3eGuuBbutZ8HSPVhVYgbRr6W7D3": {
@@ -105,7 +105,7 @@
         },
         "name": "KAHVALTILAR"
       },
-      "category10": {
+      "category010": {
         "id": 10,
         "menuItem": {
           "A10aAna010": {
@@ -209,7 +209,7 @@
         },
         "name": "ANA YEMEKLER"
       },
-      "category11": {
+      "category011": {
         "id": 11,
         "menuItem": {
           "T1aTako001": {
@@ -229,7 +229,7 @@
         },
         "name": "TAKOLAR"
       },
-      "category12": {
+      "category012": {
         "id": 12,
         "menuItem": {
           "D10aTatli010": {
@@ -466,7 +466,7 @@
         },
         "name": "TATLILAR"
       },
-      "category13": {
+      "category013": {
         "id": 13,
         "menuItem": {
           "E10aIcecek010": {
@@ -626,7 +626,7 @@
         },
         "name": "SICAK İÇECEKLER"
       },
-      "category14": {
+      "category014": {
         "id": 14,
         "menuItem": {
           "F10aKahve010": {
@@ -723,7 +723,7 @@
         },
         "name": "ESPRESSO BAZLI KAHVELER"
       },
-      "category15": {
+      "category015": {
         "id": 15,
         "menuItem": {
           "G1aMilk001": {
@@ -785,7 +785,7 @@
         },
         "name": "MILKSHAKELER"
       },
-      "category16": {
+      "category016": {
         "id": 16,
         "menuItem": {
           "H1aSogukKahve001": {
@@ -840,7 +840,7 @@
         },
         "name": "SOĞUK KAHVELER"
       },
-      "category17": {
+      "category017": {
         "id": 17,
         "menuItem": {
           "I1aFrappe001": {
@@ -867,7 +867,7 @@
         },
         "name": "FRAPPELER"
       },
-      "category18": {
+      "category018": {
         "id": 18,
         "menuItem": {
           "J1aNargile001": {
@@ -915,7 +915,7 @@
         },
         "name": "NARGİLELER"
       },
-      "category19": {
+      "category019": {
         "id": 19,
         "menuItem": {
           "K1aSpecialNargile001": {
@@ -963,7 +963,7 @@
         },
         "name": "SPECIAL NARGİLELER"
       },
-      "category2": {
+      "category002": {
         "id": 2,
         "menuItem": {
           "P7rUiiPpeyJ1VFVJtJppeFf0L1R7": {
@@ -1004,7 +1004,7 @@
         },
         "name": "TOSTLAR"
       },
-      "category20": {
+      "category020": {
         "id": 20,
         "menuItem": {
           "L1aKokteyl001": {
@@ -1045,7 +1045,7 @@
         },
         "name": "ALKOLSÜZ KOKTEYLLER"
       },
-      "category21": {
+      "category021": {
         "id": 21,
         "menuItem": {
           "M1aFrozen001": {
@@ -1114,7 +1114,7 @@
         },
         "name": "FROZENLAR"
       },
-      "category22": {
+      "category022": {
         "id": 22,
         "menuItem": {
           "N1aLimonata001": {
@@ -1162,7 +1162,7 @@
         },
         "name": "LİMONATALAR"
       },
-      "category23": {
+      "category023": {
         "id": 23,
         "menuItem": {
           "SOGUK001": {
@@ -1329,7 +1329,7 @@
         },
         "name": "SOĞUK İÇECEKLER"
       },
-      "category3": {
+      "category003": {
         "id": 3,
         "menuItem": {
           "U2xNaaAajdA2BAFXhHnnaEe1O1X2": {
@@ -1370,7 +1370,7 @@
         },
         "name": "MAKARNALAR"
       },
-      "category4": {
+      "category004": {
         "id": 4,
         "menuItem": {
           "A8dTggGgpbG8HGLDnNttkKk7U7D8": {
@@ -1397,7 +1397,7 @@
         },
         "name": "GÖZLEMELER"
       },
-      "category5": {
+      "category005": {
         "id": 5,
         "menuItem": {
           "C1fViiIiodI1JKGEnNvvjJj9W9F1": {
@@ -1408,7 +1408,7 @@
             "price": 170
           },
           "D2gWjjJjpeJ2KLHFoOwwkKk0X0G2": {
-            "description": "Patates Kızartması ile servis edilir",
+            "description": "",
             "id": 2,
             "imageUrl": "",
             "name": "Patates Kızartması",
@@ -1438,7 +1438,7 @@
         },
         "name": "APERATİFLER"
       },
-      "category6": {
+      "category006": {
         "id": 6,
         "menuItem": {
           "H1kAaaAamqA1OPLJtTpppPp4A4K1": {
@@ -1486,7 +1486,7 @@
         },
         "name": "PİZZALAR"
       },
-      "category7": {
+      "category007": {
         "id": 7,
         "menuItem": {
           "A10bBurger010": {
@@ -1583,7 +1583,7 @@
         },
         "name": "BURGERLER"
       },
-      "category8": {
+      "category008": {
         "id": 8,
         "menuItem": {
           "S1aSalata001": {
@@ -1617,7 +1617,7 @@
         },
         "name": "SALATALAR"
       },
-      "category9": {
+      "category009": {
         "id": 9,
         "menuItem": {
           "W1aWrap001": {
@@ -1641,51 +1641,51 @@
   },
   "menuKey_nfc17": {
     "category": {
-      "category-1": {
+      "category-001": {
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Kahvaltı menüsü",
         "displayOrder": 0,
-        "id": "category-1",
+        "id": "category-001",
         "isActive": true,
         "menuId": "menuKey_nfc17",
         "name": "Kahvaltı",
         "updatedAt": "2025-11-09T00:00:00.000Z"
       },
-      "category-2": {
+      "category-002": {
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Ana yemek menüsü",
         "displayOrder": 1,
-        "id": "category-2",
+        "id": "category-002",
         "isActive": true,
         "menuId": "menuKey_nfc17",
         "name": "Ana Yemekler",
         "updatedAt": "2025-11-09T00:00:00.000Z"
       },
-      "category-3": {
+      "category-003": {
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır ürünler",
         "displayOrder": 2,
-        "id": "category-3",
+        "id": "category-003",
         "isActive": true,
         "menuId": "menuKey_nfc17",
         "name": "Çıtır Menüler",
         "updatedAt": "2025-11-09T00:00:00.000Z"
       },
-      "category-4": {
+      "category-004": {
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Soğuk ve sıcak içecekler",
         "displayOrder": 3,
-        "id": "category-4",
+        "id": "category-004",
         "isActive": true,
         "menuId": "menuKey_nfc17",
         "name": "İçecekler",
         "updatedAt": "2025-11-09T00:00:00.000Z"
       },
-      "category-5": {
+      "category-005": {
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Tatlı menüsü",
         "displayOrder": 4,
-        "id": "category-5",
+        "id": "category-005",
         "isActive": true,
         "menuId": "menuKey_nfc17",
         "name": "Tatlılar",
@@ -1695,7 +1695,7 @@
     "menuItem": {
       "item-1": {
         "available": true,
-        "categoryId": "category-1",
+        "categoryId": "category-001",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Kahvaltılık çeşitleri ile dolu serpme kahvaltı tabağı",
         "displayOrder": 0,
@@ -1708,7 +1708,7 @@
       },
       "item-10": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır mozzarella çubukları",
         "displayOrder": 3,
@@ -1721,7 +1721,7 @@
       },
       "item-10a": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır tavuk nugget",
         "displayOrder": 4,
@@ -1734,7 +1734,7 @@
       },
       "item-10b": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Kremalı jalapeno poppers",
         "displayOrder": 5,
@@ -1747,7 +1747,7 @@
       },
       "item-10c": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır kalamar halkası",
         "displayOrder": 6,
@@ -1760,7 +1760,7 @@
       },
       "item-10d": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır tempura karides",
         "displayOrder": 7,
@@ -1773,7 +1773,7 @@
       },
       "item-10e": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Ev yapımı tavuk şinitzel",
         "displayOrder": 8,
@@ -1786,7 +1786,7 @@
       },
       "item-10f": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Acı soslu buffalo kanadı",
         "displayOrder": 9,
@@ -1799,7 +1799,7 @@
       },
       "item-11": {
         "available": true,
-        "categoryId": "category-4",
+        "categoryId": "category-004",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Sıcak çay",
         "displayOrder": 0,
@@ -1812,7 +1812,7 @@
       },
       "item-12": {
         "available": true,
-        "categoryId": "category-4",
+        "categoryId": "category-004",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Geleneksel Türk kahvesi",
         "displayOrder": 1,
@@ -1825,7 +1825,7 @@
       },
       "item-13": {
         "available": true,
-        "categoryId": "category-4",
+        "categoryId": "category-004",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Soğuk kola",
         "displayOrder": 2,
@@ -1838,7 +1838,7 @@
       },
       "item-14": {
         "available": true,
-        "categoryId": "category-4",
+        "categoryId": "category-004",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Ev yapımı ayran",
         "displayOrder": 3,
@@ -1851,7 +1851,7 @@
       },
       "item-15": {
         "available": true,
-        "categoryId": "category-5",
+        "categoryId": "category-005",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Fıstıklı baklava",
         "displayOrder": 0,
@@ -1864,7 +1864,7 @@
       },
       "item-16": {
         "available": true,
-        "categoryId": "category-5",
+        "categoryId": "category-005",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Sıcak künefe",
         "displayOrder": 1,
@@ -1877,7 +1877,7 @@
       },
       "item-17": {
         "available": true,
-        "categoryId": "category-5",
+        "categoryId": "category-005",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Fırın sütlaç",
         "displayOrder": 2,
@@ -1890,7 +1890,7 @@
       },
       "item-2": {
         "available": true,
-        "categoryId": "category-1",
+        "categoryId": "category-001",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Tereyağında pişmiş menemen",
         "displayOrder": 1,
@@ -1903,7 +1903,7 @@
       },
       "item-3": {
         "available": true,
-        "categoryId": "category-1",
+        "categoryId": "category-001",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Sucuk ve yumurta",
         "displayOrder": 2,
@@ -1916,7 +1916,7 @@
       },
       "item-4": {
         "available": true,
-        "categoryId": "category-2",
+        "categoryId": "category-002",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Özel sos ile servis edilen İskender kebap",
         "displayOrder": 0,
@@ -1929,7 +1929,7 @@
       },
       "item-5": {
         "available": true,
-        "categoryId": "category-2",
+        "categoryId": "category-002",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Izgara tavuk şiş",
         "displayOrder": 1,
@@ -1942,7 +1942,7 @@
       },
       "item-6": {
         "available": true,
-        "categoryId": "category-2",
+        "categoryId": "category-002",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Izgara köfte",
         "displayOrder": 2,
@@ -1955,7 +1955,7 @@
       },
       "item-7": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır tavuk kanadı",
         "displayOrder": 0,
@@ -1968,7 +1968,7 @@
       },
       "item-8": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır patates kızartması",
         "displayOrder": 1,
@@ -1981,7 +1981,7 @@
       },
       "item-9": {
         "available": true,
-        "categoryId": "category-3",
+        "categoryId": "category-003",
         "createdAt": "2025-11-09T00:00:00.000Z",
         "description": "Çıtır soğan halkası",
         "displayOrder": 2,
