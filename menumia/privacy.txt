@@ -1,0 +1,236 @@
+Privacy Policy for MenuMia
+
+Last updated: [Write date here]
+
+MenuMia (“we”, “our”, or “us”) operates the MenuMia mobile application for Android (the “App”). This Privacy Policy explains how we collect, use, store, and protect information when you use our App and related services.
+
+By using MenuMia, you agree to the practices described in this Privacy Policy.
+
+1. Who We Are
+
+MenuMia is a restaurant and digital ordering platform designed to help users browse menus, place orders, and interact with restaurant-related services through a mobile application.
+
+If you have any questions about this Privacy Policy or your personal data, you may contact us at:
+
+Email: troyatech17@gmail.com
+
+2. Information We Collect
+
+Depending on how you use the App, we may collect the following types of information:
+
+a. Account and Identity Information
+
+Name
+
+Phone number
+
+User ID or account identifier
+
+Authentication-related information
+
+b. Phone Number Verification Information
+
+If you use phone number sign-in or verification features, we may collect and process your phone number in order to:
+
+verify your identity
+
+authenticate your access to the App
+
+improve account security
+
+prevent abuse, fraud, and unauthorized access
+
+Phone number verification may be supported by third-party services such as Firebase Authentication.
+
+c. Order and Usage Information
+
+Order details
+
+Selected restaurant or table information
+
+Cart contents
+
+Payment-related status information
+
+Reservation or service interaction details, if applicable
+
+d. Device and Technical Information
+
+We may automatically collect limited technical data such as:
+
+device model
+
+operating system version
+
+app version
+
+language settings
+
+crash data
+
+log data
+
+approximate timestamps of app activity
+
+This information helps us maintain, secure, and improve the App.
+
+e. Analytics Information
+
+If analytics tools are enabled, we may collect information about how users interact with the App, such as:
+
+screens visited
+
+buttons clicked
+
+session duration
+
+general usage patterns
+
+We use this information to improve performance, usability, and service quality.
+
+3. How We Use Information
+
+We use collected information for the following purposes:
+
+to provide and operate the App
+
+to create and manage user accounts
+
+to verify users through phone number authentication
+
+to process orders and service requests
+
+to improve app functionality and user experience
+
+to provide customer support
+
+to monitor technical issues, bugs, and crashes
+
+to protect against fraud, misuse, and unauthorized access
+
+to comply with legal obligations
+
+4. Legal Basis and Limited Use
+
+We collect and use personal data only as reasonably necessary to provide the App and its features.
+
+We do not sell your personal information to third parties.
+
+We do not use your personal data for unrelated purposes without an appropriate legal basis or user consent where required.
+
+5. Third-Party Services
+
+The App may rely on third-party service providers to operate certain features. These may include services for:
+
+authentication
+
+phone number verification
+
+hosting
+
+analytics
+
+crash reporting
+
+database and cloud storage
+
+notifications
+
+Examples may include Google Firebase and related Google Cloud services.
+
+These third parties may process certain information on our behalf in accordance with their own privacy policies and applicable laws.
+
+6. Data Sharing
+
+We may share limited information only in the following situations:
+
+with service providers that help us operate the App
+
+with restaurant partners or business operators when necessary to fulfill an order or service
+
+when required by law, regulation, court order, or legal request
+
+to protect our rights, users, systems, or the public
+
+in connection with a merger, acquisition, restructuring, or sale of assets, if applicable
+
+We do not share personal information more broadly than necessary for these purposes.
+
+7. Data Retention
+
+We keep personal data only for as long as needed for:
+
+account management
+
+service delivery
+
+security
+
+legal and operational requirements
+
+dispute resolution
+
+enforcement of our agreements
+
+When data is no longer needed, we may delete, anonymize, or securely store it as required by law.
+
+8. Data Security
+
+We take reasonable technical and organizational measures to protect personal data against unauthorized access, misuse, loss, alteration, or disclosure.
+
+However, no system can be guaranteed to be completely secure. While we work to protect your information, we cannot guarantee absolute security.
+
+9. Your Rights
+
+Depending on applicable law, you may have the right to:
+
+request access to your personal data
+
+request correction of inaccurate data
+
+request deletion of your data
+
+object to certain processing activities
+
+request restriction of processing
+
+withdraw consent where processing is based on consent
+
+To make a request, contact us at:
+
+Email: destek@menumia.com.tr
+
+We may need to verify your identity before responding to your request.
+
+10. Children’s Privacy
+
+The App is not intended for children unless permitted under applicable law and under appropriate supervision. We do not knowingly collect personal information from children in violation of applicable legal requirements.
+
+If you believe that a child has provided personal data to us improperly, please contact us so we can review and take appropriate action.
+
+11. Cookies and Similar Technologies
+
+The Android App itself may not use browser cookies in the traditional sense, but we or our service providers may use similar technologies such as local storage, device identifiers, analytics SDKs, or authentication tokens to operate the App and improve the service.
+
+If we provide a website connected to the App, that website may use cookies or similar technologies.
+
+12. International Data Processing
+
+Depending on the infrastructure we use, your information may be processed or stored on servers located in different countries.
+
+When this happens, we take reasonable steps to ensure appropriate safeguards are in place, in accordance with applicable law.
+
+13. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the “Last updated” date and, where appropriate, provide notice within the App or through other reasonable means.
+
+Your continued use of the App after updates become effective means you accept the revised Privacy Policy.
+
+14. Contact Us
+
+If you have any questions, requests, or concerns regarding this Privacy Policy or our privacy practices, you may contact us at:
+
+MenuMia
+Email: troyatech17@gmail.com
+
+Website: https://www.menumia.com.tr
